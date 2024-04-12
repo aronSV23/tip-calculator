@@ -1,0 +1,7 @@
+.input-people {
+    background-image: url('./src/assets/icon-person.svg');
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-origin: content-box;
+    padding: 0 20px;
+  }
